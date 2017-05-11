@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tianhong App</string>
+    <string name="label_all">All Products</string>
+    <string name="label_available">Available Products</string>
+    <string name="label_closed">Closd Products</string>
+
+    <string name="no_products_all">No Products</string>
+    <string name="no_products_available">No Available Products</string>
+    <string name="no_products_closed">No Closd Products</string>
+    <string name="title_activity_products">ProductsActivity</string>
+
+    <string name="no_data">No data</string>
+    <string name="no_data_description">No description</string>
+
+    <string name="menu_filter">Filter</string>
+    <string name="menu_clear">Clear completed</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="nav_all">All</string>
+    <string name="nav_active">Active</string>
+    <string name="nav_closed">Completed</string>
+</resources>
